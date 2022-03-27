@@ -17,6 +17,7 @@ This project let you to create many PacMen as you like. It is pretty easy just t
 * Add more buttons to the project such as Stop, Slow, etc
 * Remove any PacMen 
 ## Lincense
+* MIT License
 
 Copyright (c) 2022 LengSann
 
